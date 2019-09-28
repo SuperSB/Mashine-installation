@@ -9,6 +9,8 @@ $ sudo rm -rf /usr/local/cuda-8.0/
 
 
 
+
+
 #### Option 1：Auto installation with a shell script
 
 ##### Step 1: download the script as you can see in the folder named Scripts
@@ -32,6 +34,8 @@ $ nvidia-smi
 ```shell
 $ nvcc -V
 ```
+
+
 
 
 
@@ -79,8 +83,6 @@ $ sudo ./cuda_10.0.130_410.48_linux.run
 # push shift + q and code "accept" to skip the note
 # choose "yes" except when asking installing Opengl
 ```
-
-
 
 ##### Step 3: install Cudnn7.4.2
 
