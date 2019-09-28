@@ -1,6 +1,6 @@
-#### Install cuda10.0+cudnn7.4.2 for ubuntu 16.04
+## Install cuda10.0+cudnn7.4.2 for ubuntu 16.04
 
-##### If there is already a cuda in your machine, please unintall it 
+#### If there is already a cuda in your machine, please unintall it 
 
 ```shell
 $ sudo apt-get remove --purge nvidia-*
