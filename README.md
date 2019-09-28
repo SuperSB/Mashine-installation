@@ -1,1 +1,1 @@
-# Mashine-installation
+# Mashine-installation for Ubuntu
